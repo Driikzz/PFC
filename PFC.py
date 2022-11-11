@@ -1,3 +1,5 @@
+Rémi Salles Gtech1-B
+
 # DEBUT
 
 # On admet la fontion random 
