@@ -87,7 +87,8 @@ def game():
             if relancer == "oui":
                 clear() 
                 game()
-            else :
+            else:
+                print("Merci d'avoir jouer "+pseudoJou)
                 break
         
         choixJoueurGame = joueur()
