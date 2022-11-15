@@ -71,7 +71,7 @@ def bot():
 def game():
     pointJoueur = 0 
     pointBot = 0   
-    while nombreDeManche > pointJoueur or pointBot :
+    while nombreDeManche > pointJoueur or nombreDeManche > pointBot :
         
         if nombreDeManche == pointJoueur:
             print(" ")
